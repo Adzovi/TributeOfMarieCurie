@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(248, 239, 239);
+}
+
+.img {
+    background-color: white;
+    text-align: center;
+}
+
+.picture {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    margin: 10px;
+    display: inline-block;
+}
+
+h5 {
+    text-decoration: wavy;
+    color: royalblue;
+}
+
+.name {
+    text-align: center;
+    padding: 25px;
+    font-weight: lighter;
+    font-style: sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+}
+
+header {
+    background-color: rgba(24, 255, 197, 0.2);
+}
+
+ul {
+    list-style-type: disc;
+    text-align: justify;
+    margin-left: 25px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: grey;
+}
+
+footer {
+    color: red;
+    text-align: center;
+    margin: 20px;
+}
